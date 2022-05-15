@@ -1,0 +1,63 @@
+
+/* Start Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap');
+/* End Fonts */
+
+/* Start Main CSS */
+body {
+    background-color: #f4f4F4;
+    font-family: 'Montserrat', sans-serif;
+    color: #495057;
+}
+
+
+
+/* End Main CSS */
+
+
+/* Start Page Login */
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login input {
+    margin-bottom: 10px;
+}
+
+.login .form-control {
+    background-color: #E5E5E5;
+}
+
+/* End Page Login */
+
+
+/* Begin Dashboard */
+.info {
+    position: absolute;
+    top: 50%;
+    width: 95%;
+    transform: translateX(50%) translateY(-50%);
+    right: 50%;
+}
+
+
+/* Begin Dashboard */
+
+
+
+/* Begin Specialite */
+
+
+
+/* End Specialite */
+
+
+.Content-404 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateX(50%) translateY(-50%);
+    right: 50%;
+}
